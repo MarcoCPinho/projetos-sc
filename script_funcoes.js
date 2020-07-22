@@ -1,5 +1,5 @@
+/*********************************************************************************************** */
 //Função IF ELSE
-
 /*
 function retornaSexo(sexo){
     if (sexo === 'M'){
@@ -11,7 +11,7 @@ function retornaSexo(sexo){
     }
 }
 */
-
+/*********************************************************************************************** */
 //Função Switch
 /*
 function retornaSexo(sexo) {
@@ -24,6 +24,20 @@ function retornaSexo(sexo) {
             return 'Outro';
     }
 }
-*/
 var resultado = retornaSexo('M');
-console.log(resultado);
+*/
+/*********************************************************************************************** */
+//Operadores Matemáticos
+/*
+var x = 10, y = 5; // numero + numero -> operação matemática
+//var x = "10", y = 5; //número + string -> conconotação
+
+var resultado = x+y; //15 -> soma
+//var resultado = x-y; //05 -> subtração
+//var resultado = x*y; //50 -> multiplicação
+//var resultado = x/y; //15 -> divisão
+//var resultado = x%y; //0 -> resto da divisão
+//var resultado = x**y; //100000 -> elevado
+*/
+/*********************************************************************************************** */
+//console.log(resultado);
