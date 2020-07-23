@@ -64,3 +64,16 @@ if (sexo !== 'M'){ //! = NO
     console.log('OK');
 }
 */
+//Operador ternário
+//var sexo ='M';
+/*
+if (sexo === 'M'){
+    return 'Masculino'
+}else{
+return 'Feminino'
+}
+*/
+/*
+var retorno = (sexo === 'M')?'Masculino':'Feminino'; //utilizando o IF e ELSE em uma linha só, vira um operador ternário... (condição) ? TRUE : FALSE ;
+console.log(retorno);
+*/
