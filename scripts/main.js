@@ -36,6 +36,7 @@ minhaPromise()
     console.warn(error);
 });
 */
+/*
 axios.get('https://api.github.com/users/MarcoCPinho') //axios age como um "wrapper" do XMLHTTPRequest
 .then(function(response){
     console.log(response);
@@ -43,3 +44,4 @@ axios.get('https://api.github.com/users/MarcoCPinho') //axios age como um "wrapp
 .catch(function(error){
     console.warn(error);
 });
+*/
